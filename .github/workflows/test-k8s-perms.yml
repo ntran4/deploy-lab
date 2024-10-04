@@ -18,19 +18,19 @@ jobs:
               ca.crt: LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURCVENDQWUyZ0F3SUJBZ0lJUi9Ec05xT3BCZGN3RFFZSktvWklodmNOQVFFTEJRQX                dGVEVUTUJFR0ExVUUKQXhNS2EzVmlaWEp1WlhSbGN6QWVGdzB5TkRFd01EUXhPVE16TkRoYUZ3MHpOREV3TURJeE9UTTRORGhhTUJVeApFekFSQmdOVk                JBTVRDbXQxWW1WeWJtVjBaWE13Z2dFaU1BMEdDU3FHU0liM0RRRUJBUVVBQTRJQkR3QXdnZ0VLCkFvSUJBUURKK3FVbVYxSU1aTG1udlVmTHhQOWJ0SV                JtM0JUUkcvdTFJMjJiUDVEOUVDTnF0by82Q0Q5ckJlTTcKL05GNzlqcWhzQVR1SERHT1hnSUNUMm5VVllsMXBta0syWlI5UG03VEhhdFNzdGlJWmZFY3                NjeVlBWENmcjJIagp5dW1VcDhtMmJzVzhhSXZ6MElVSkdwTTZacGZ5R285TkdYNFh4MUJTSVJ0QW9FL1p1S085SXoxZWNvejE5Yzd1ClhIMC9ibG8yLy                9DNWo0OHhuOWc0YldqMk13WU1mMytKcVFLVlVhRDBFQ1lZcnlvZWxia3k1eGFsY1pTa3lEWm4KbUEzQmVIWXNISmg0TXU4L0xTekdJUWxDQUhzZEMvTj                Q2ZmQ5NHlrTmxXQ0VZbjlPNWlKVk1DajJBN29sdmxkZQpzejJQN3J5cEJNOVJIMlljdEpNSDhMS25mNk50QWdNQkFBR2pXVEJYTUE0R0ExVWREd0VCL3                dRRUF3SUNwREFQCkJnTlZIUk1CQWY4RUJUQURBUUgvTUIwR0ExVWREZ1FXQkJRK1BtZ21CN1lieGtpQjh3NTl3Mm91akZVc2NUQVYKQmdOVkhSRUVEak                FNZ2dwcmRXSmxjbTVsZEdWek1BMEdDU3FHU0liM0RRRUJDd1VBQTRJQkFRQ0h4Um9KSTV6SQpVVnhabWMvZTNPSW5aVlNZQ1RvckZYWkNrT2JRTDBmTj                h1ditWaVJGMXRxaFBBUzBJSmxuQVVaaVNnNWwrTHZOCjZsSm50aThBYXR6Kzg5NnJTV214RU15aFF1UGRwS0NRdXJCQkZpRDBWNTJ1NmNIYUdWYzZBUT                R4WmszbGNTYVgKKzZ5RlRqS3VhcXhqVFkxTEVwUnpqMHJRbi9yMG15Zk8wMGV4MlBmUVpDU2xuSEUvOUd1TFhIeFdoZXJrYXIrdQpmL1FiRUJjK3JlRF                Bsdk9vT1BZQTZTbCtITHJBV0dBWklISGlPSi95Y1kyQkJlWUtScEltYXBHMnlnN1BaRG5MCnlmelp5UW9RSnRZVGVQUmZhWVdTTjJnN2ZkbExiZ3Y2Qn                dOS0sySEgzWk1NTEI2NDNzZC93cXJvQmV6aldqRFgKbmZ1OS9jV1lET0gyCi0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0K
               namespace: ZGVmYXVsdA==
               token: ZXlKaGJHY2lPaUpTVXpJMU5pSXNJbXRwWkNJNklsQlBZVzR4VkVkRldXZzBSMGhpU25KWFpXRXlaMGw2VUdKUlgzTTJhak0zVFRnd1UwbHd                NMlJrWkRRaWZRLmV5SnBjM01pT2lKcmRXSmxjbTVsZEdWekwzTmxjblpwWTJWaFkyTnZkVzUwSWl3aWEzVmlaWEp1WlhSbGN5NXBieTl6WlhKMmFXTmx                ZV05qYjNWdWRDOXVZVzFsYzNCaFkyVWlPaUprWldaaGRXeDBJaXdpYTNWaVpYSnVaWFJsY3k1cGJ5OXpaWEoyYVdObFlXTmpiM1Z1ZEM5elpXTnlaWFF                1Ym1GdFpTSTZJbWRvWVMxellTMXpaV055WlhRaUxDSnJkV0psY201bGRHVnpMbWx2TDNObGNuWnBZMlZoWTJOdmRXNTBMM05sY25acFkyVXRZV05qYjN                WdWRDNXVZVzFsSWpvaVoyaGhJaXdpYTNWaVpYSnVaWFJsY3k1cGJ5OXpaWEoyYVdObFlXTmpiM1Z1ZEM5elpYSjJhV05sTFdGalkyOTFiblF1ZFdsa0l                qb2lOMll5WldZMU9ETXRPV05sTkMwME1EWTNMVGxoWkRndE9UTTBNVFJoTlRNd1pUSm1JaXdpYzNWaUlqb2ljM2x6ZEdWdE9uTmxjblpwWTJWaFkyTnZ                kVzUwT21SbFptRjFiSFE2WjJoaEluMC5XVDVZLW01cXBnd1B5MGZaYnFoeHFubVlHMW9zalNxUTctN29FRHN4WkxUT1BDcWI2M0RrVTQ0dVZoX3FzVXR                iWUVoVVFad0lGM1hNaFQyRTNJT1ZOOC00V09ZOWRRcEZDSTREcF94MlFHeDZQMHFqemFra3FxUWgyVzZDLTFyQUtSU3Nua3o5NEtFakR2U0JpSTY2Qmh                fT0M2M19MRlhLVEZ3ejlZWjh0dkU4N2ZtSXRNOXJuVjJPUzBER2hiQXJMcWNybTJMeUh2dWphTFhBblp3V1dhdU5QZVhmUVpiNE80VDlHSDB1dUc2WlR                DOFYtdVBQMExETEE5eG45QlMyUXVTQ01xVWlQNWpBY3pETmZVVDZydWNuVUJ4UzFSYlUwNlFoLWM5OE95M0t6d3lkMFlhdm5GY1VNZGZGLXVNTFYzOHV                UeFIxRmF2S1JxN19tUUw5d0E=
-
             kind: Secret
             metadata:
               annotations:
                 kubectl.kubernetes.io/last-applied-configuration: |
-                  {"apiVersion":"v1","kind":"Secret","metadata":{"annotations":{"kubernetes.io/service-account.name":"gha"},"name":"gha-sa-secret","namespace":"default"},"type":"kubernetes.io/service-account-token"}
+                  {"apiVersion":"v1","kind":"Secret","metadata":{"annotations":{"kubernetes.io/service-account.name":"gha"},"nam                e":"gha-sa-secret","namespace":"default"},"type":"kubernetes.io/service-account-token"}
                 kubernetes.io/service-account.name: gha
-                kubernetes.io/service-account.uid: 0f4a4110-5f11-462c-af70-8f514889d8f5
-              creationTimestamp: "2024-10-01T23:52:36Z"
+                kubernetes.io/service-account.uid: 7f2ef583-9ce4-4067-9ad8-93414a530e2f
+              creationTimestamp: "2024-10-04T19:43:09Z"
               name: gha-sa-secret
               namespace: default
-              resourceVersion: "680"
-              uid: 4c1c3b23-ac06-4580-b1cc-3822b681fdcf
+              resourceVersion: "980"
+              uid: 52852937-576a-4e03-8e9d-813943555f5f
             type: kubernetes.io/service-account-token
+
       - name: Get pods
         run: kubectl get pods -n default
